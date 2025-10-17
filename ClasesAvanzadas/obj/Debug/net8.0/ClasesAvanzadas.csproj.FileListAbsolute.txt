@@ -1,0 +1,15 @@
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/bin/Debug/net8.0/ClasesAvanzadas
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/bin/Debug/net8.0/ClasesAvanzadas.deps.json
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/bin/Debug/net8.0/ClasesAvanzadas.runtimeconfig.json
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/bin/Debug/net8.0/ClasesAvanzadas.dll
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/bin/Debug/net8.0/ClasesAvanzadas.pdb
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ClasesAvanzadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ClasesAvanzadas.AssemblyInfoInputs.cache
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ClasesAvanzadas.AssemblyInfo.cs
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ClasesAvanzadas.csproj.CoreCompileInputs.cache
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ClasesAvanzadas.sourcelink.json
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ClasesAvanzadas.dll
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/refint/ClasesAvanzadas.dll
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ClasesAvanzadas.pdb
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ClasesAvanzadas.genruntimeconfig.cache
+/home/piero/Descargas/SuperHeroesApp/ClasesAvanzadas/obj/Debug/net8.0/ref/ClasesAvanzadas.dll
