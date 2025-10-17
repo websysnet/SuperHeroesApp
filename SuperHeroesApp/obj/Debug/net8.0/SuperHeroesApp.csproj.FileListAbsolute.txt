@@ -1,0 +1,15 @@
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp.deps.json
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp.runtimeconfig.json
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp.dll
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp.pdb
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.AssemblyInfoInputs.cache
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.AssemblyInfo.cs
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.csproj.CoreCompileInputs.cache
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.sourcelink.json
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.dll
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/refint/SuperHeroesApp.dll
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.pdb
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.genruntimeconfig.cache
+/home/piero/Descargas/SuperHeroesApp/SuperHeroesApp/obj/Debug/net8.0/ref/SuperHeroesApp.dll
